@@ -30,7 +30,7 @@ The project structure is as follows :
 └── README.md
 ```
 
-Once this structure is replicated or cloned(using "git clone https://github.com/yogesh174/docker-project") with these files, Docker and Docker compose is installed locally, you can simply run "docker-compose up" from the root of the project to run this project, and point your browser to http://localhost:8080 to see the project running.
+Once this structure is replicated or cloned(using "git clone https://github.com/shub6059/php_apache_docker.git") with these files, Docker and Docker compose is installed locally, you can simply run "docker-compose up" from the root of the project to run this project, and point your browser to http://localhost:8080 to see the project running.
 
 ### Docker Compose
 
